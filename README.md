@@ -1,0 +1,2 @@
+# Resource_Merge_Optimize
+This Repository is aimed at those lazy people like me,to build a best plan for code.My aim is to use every resource I can found to improve or reduce time at coding on some platform,which is always disgusting and cannot bear and waste time,so let's merge it to a repository.This repository has multiple branch,so come and create a new branch as yours based on me can always,in oppsite,I could bring yours to me also.So let's together!
